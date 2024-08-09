@@ -1,6 +1,6 @@
 # Hello-World-Program
 
-ASHUTOSH SINGH (23070123033)
+## Experiment 1
 
 ### Aim: 
 
